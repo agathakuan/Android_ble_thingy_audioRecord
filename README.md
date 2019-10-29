@@ -1,10 +1,10 @@
 
 This is an example for android app supposed to:
--1 scan nearby ble peripherals, and connect it
--2 change mtu to 512 bytes
--3 find Thingy Sound service- mic characteristic, and Notify it
--4 press start/ stop button to record pcm(mono channel, 16bits, 16000Hz)
--5 press Translate button to ".pcm" to ".wav" to storage
+- 1 scan nearby ble peripherals, and connect it
+- 2 change mtu to 512 bytes
+- 3 find Thingy Sound service- mic characteristic, and Notify it
+- 4 press start/ stop button to record pcm(mono channel, 16bits, 16000Hz)
+- 5 press Translate button to ".pcm" to ".wav" to storage
 
 Support
 -------
