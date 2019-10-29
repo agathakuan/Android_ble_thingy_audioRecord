@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:20:1-63:12
+INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:20:1-63:12
+INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:20:1-63:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\f3f79dfc22a6bd08d59c47b6e9ef0bc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\26b76d300453c1b3e32ba6e76f205325\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\b7fbd85dce2c5b46ced1fd0706a717d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jjoe64:graphview:4.0.0] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\graphview-4.0.0.aar\79d6c1b5e133dbaf3ceed4a774fcda64\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\16edb3a98db256f7d5e1b4042ae543b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\463a62b7e7d41b047fde9b35b082456e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\0b4da24db9c4524c897278df5d3c5fae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c0e94701b2d19a690c01e8e745afb0c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ab975358662c0f8ee5e29cd07c2c985a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\b4be586391390efc907de39ebc8a0403\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\00d70b50be1653bd71290c0963a0ab79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\09bd098db9f28cd88356edba7d5c5c94\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\278063a93b8d34eb2147b4688eaab232\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:20:1-63:12
+INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:20:1-63:12
+	package
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:22:5-50
+	android:versionName
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:24:5-30
+		INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:21:5-51
+	xmlns:android
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:23:5-28
+		INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:33:5-80
+	android:name
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:33:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:35:5-74
+	android:name
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:35:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:36:5-65
+	android:name
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:36:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:37:5-68
+	android:name
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:37:22-66
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:38:5-71
+	android:name
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:38:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:40:5-80
+	android:name
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:40:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:41:5-80
+	android:name
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:41:22-77
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:44:5-89
+	android:required
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:44:64-87
+	android:name
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:44:19-63
+application
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:47:5-61:19
+MERGED from [com.jjoe64:graphview:4.0.0] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\graphview-4.0.0.aar\79d6c1b5e133dbaf3ceed4a774fcda64\AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.0.0] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\graphview-4.0.0.aar\79d6c1b5e133dbaf3ceed4a774fcda64\AndroidManifest.xml:11:5-12:19
+	android:supportsRtl
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:50:9-35
+	android:label
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:47:18-50
+	android:roundIcon
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:49:9-55
+	android:icon
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:48:9-44
+	android:theme
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:51:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:52:9-58:20
+	android:label
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:53:13-45
+	android:name
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:52:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:54:13-57:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:55:17-68
+	android:name
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:56:17-76
+	android:name
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:56:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:59:9-58
+	android:name
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:59:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:60:9-77
+	android:enabled
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:60:53-75
+	android:name
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml:60:18-52
+uses-sdk
+INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\f3f79dfc22a6bd08d59c47b6e9ef0bc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\f3f79dfc22a6bd08d59c47b6e9ef0bc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\26b76d300453c1b3e32ba6e76f205325\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\26b76d300453c1b3e32ba6e76f205325\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\b7fbd85dce2c5b46ced1fd0706a717d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\b7fbd85dce2c5b46ced1fd0706a717d0\AndroidManifest.xml:20:5-44
+MERGED from [com.jjoe64:graphview:4.0.0] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\graphview-4.0.0.aar\79d6c1b5e133dbaf3ceed4a774fcda64\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.0.0] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\graphview-4.0.0.aar\79d6c1b5e133dbaf3ceed4a774fcda64\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\16edb3a98db256f7d5e1b4042ae543b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\16edb3a98db256f7d5e1b4042ae543b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\463a62b7e7d41b047fde9b35b082456e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\463a62b7e7d41b047fde9b35b082456e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\0b4da24db9c4524c897278df5d3c5fae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\0b4da24db9c4524c897278df5d3c5fae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c0e94701b2d19a690c01e8e745afb0c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c0e94701b2d19a690c01e8e745afb0c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ab975358662c0f8ee5e29cd07c2c985a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ab975358662c0f8ee5e29cd07c2c985a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\b4be586391390efc907de39ebc8a0403\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\b4be586391390efc907de39ebc8a0403\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\00d70b50be1653bd71290c0963a0ab79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\00d70b50be1653bd71290c0963a0ab79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\09bd098db9f28cd88356edba7d5c5c94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\09bd098db9f28cd88356edba7d5c5c94\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\278063a93b8d34eb2147b4688eaab232\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\agath\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\278063a93b8d34eb2147b4688eaab232\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\agath\Documents\GitHub\ble_voice\Application\src\main\AndroidManifest.xml
