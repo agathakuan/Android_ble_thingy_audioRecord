@@ -42,12 +42,20 @@ the License.
 Referance
 -------
 https://github.com/NordicSemiconductor/Android-Nordic-Thingy
+
 https://github.com/NordicSemiconductor/Nordic-Thingy52-FW
+
 https://nordicsemiconductor.github.io/Nordic-Thingy52-FW/documentation/firmware_architecture.html#fw_arch_ble_services
+
 https://infocenter.nordicsemi.com/pdf/Thingy_UG_v1.1.pdf
+
 https://blog.csdn.net/tong5956/article/details/82687001
+
 https://blog.csdn.net/chezi008/article/details/53064604
+
 https://blog.xuite.net/john75310/wretch/137622947-%5BAndroid%5D+AudioRecord+%E9%8C%84%E8%A3%BD+Wav+File
+
 https://chris930921.gitbooks.io/android-traveling-gitbook/content/broadcastreceiver/servicesendmessagetoactivity.html
+
 
 
