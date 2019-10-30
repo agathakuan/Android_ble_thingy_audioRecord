@@ -235,7 +235,6 @@ public class DeviceControlActivity extends Activity {
         //https://blog.csdn.net/jdsjlzx/article/details/84327815
         mNotificationHelper = new NotificationHelper(this);
 
-
         mStartRecord = (Button) findViewById(R.id.startRecord_bt);
         mStopRecord = (Button)findViewById(R.id.stopRecord_bt);
         mTransWav_bt = (Button)findViewById(R.id.transWav_bt);
